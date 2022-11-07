@@ -15,3 +15,19 @@ Unix refers to the original operating system developed by AT&T. More generally, 
 
 
 ## Terminal Life
+The word terminal refers to a interfacce used to interact with the Operating system. Some of them are mentioned below:
+
+ - Terminal Multiplexers
+ - Process Monitoring
+ - System performance
+ - Network Tools
+ - Bash Scripting
+ - Text Manipulation Tools
+ - Others
+
+Once again I'd like to mentioned the source of this roadmap: https://roadmap.sh/devops
+I'll be discussing all of these above mentioned interactions by demonstrating them in Centos.
+
+
+
+  
