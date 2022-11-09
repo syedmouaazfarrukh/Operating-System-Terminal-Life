@@ -67,5 +67,12 @@ I'll be discussing all of these above mentioned interactions by demonstrating th
     similarly go and check out for commands such as echo, fgrep, egrep etc.
 
     
+### 4. Network Tools
+  - tracerout, iptables, netstat, ping etc:
+    These commands are used to understand network connectivity between host and the server. 
+  
+    on typing (man ping), we get:
+    ![image](https://user-images.githubusercontent.com/97732099/200854491-ec3d6800-09d8-42d0-978a-950b2bcc59b4.png)
+
     
     
