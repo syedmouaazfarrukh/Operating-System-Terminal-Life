@@ -37,7 +37,7 @@ I'll be discussing all of these above mentioned interactions by demonstrating th
          
    -     man tmux
 
-
+    
 ### 2. Process Monitoring
   - ps, top, htop, atop etc:
     These commands are for monitoring various processes happening in the system both hardware & software, some of which are explained below: 
@@ -48,10 +48,24 @@ I'll be discussing all of these above mentioned interactions by demonstrating th
     on typing (man top), we get:
     ![image](https://user-images.githubusercontent.com/97732099/200851043-a98c70cc-992d-44a3-8b5a-38db88898a93.png)
 
-    similarly go and check out for htop, atop etc.
+    similarly go and check out for htop, atop etc.    
+    
+    
+### 3. Text Manipulation Tools
+  - grep, sort, cat, echo etc:
+    These commands are used for searching, sorting, reading files/data in the system, some of which are explained below: 
+  
+    on typing (man grep), we get:
+    ![image](https://user-images.githubusercontent.com/97732099/200853244-bdeb640b-43d5-437e-99a7-a4027d46b221.png)
+    
+    on typing (man sort), we get:
+    ![image](https://user-images.githubusercontent.com/97732099/200853353-eea41183-aead-43af-b3bd-14abd8cafe44.png)
 
-    
-    
+    on typing (man cat), we get:
+    ![image](https://user-images.githubusercontent.com/97732099/200853488-48d7a867-270a-4af7-9e44-37975d45a3d5.png)
+
+    similarly go and check out for commands such as echo, fgrep, egrep etc.
+
     
     
     
