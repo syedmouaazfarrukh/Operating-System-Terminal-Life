@@ -29,5 +29,29 @@ Once again I'd like to mentioned the source of this roadmap: https://roadmap.sh/
 I'll be discussing all of these above mentioned interactions by demonstrating them in Centos.
 
 
+### 1. Terminal Multiplexers
+  - screen & tmux:
+  Screen is a full-screen window manager that multiplexes a physical terminal between several processes whereas tmux is a terminal multiplexer: it enables               a number of terminals to be created, accessed, and controlled from a single screen. 
+          
+   -     man screen
+         
+   -     man tmux
 
+
+### 2. Process Monitoring
+  - ps, top, htop, atop etc:
+    These commands are for monitoring various processes happening in the system both hardware & software, some of which are explained below: 
   
+    on typing (man ps), we get:
+    ![image](https://user-images.githubusercontent.com/97732099/200850709-cf0ed412-3095-4a38-95dd-35797a5fa802.png)
+   
+    on typing (man top), we get:
+    ![image](https://user-images.githubusercontent.com/97732099/200851043-a98c70cc-992d-44a3-8b5a-38db88898a93.png)
+
+    similarly go and check out for htop, atop etc.
+
+    
+    
+    
+    
+    
