@@ -4,7 +4,7 @@ Various OS &amp; Terminal processes
 
 ## Operating Systems
 
-An Operating system serves as a bridge between a computer's user and its hardware. An operating system's function is to offer a setting in which a user can conveniently and effectively run programmes. There are two types of OS ie
+An Operating system serves as a bridge asb between a computer's user and its hardware. An operating system's function is to offer a setting in which a user can conveniently and effectively run programmes. There are two types of OS ie
 
   - Linux
   - Unix
